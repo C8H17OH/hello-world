@@ -1,2 +1,4 @@
 # hello-world
-My First repository on GitHub
+My First Repository on GitHub
+
+Life is short. Use python.
